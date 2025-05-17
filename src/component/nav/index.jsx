@@ -29,8 +29,8 @@ const NavBar = () => {
         ))}
       </ul>
       <a
-        href="/resume.docx"
-        download="Pawan_Kumar_Mishra_Resume.docx"
+        href="my-portfolio\src\assets\PawanKumar_Mishra_sr_frontend_developer.pdf"
+        download="my-portfolio\src\assets\PawanKumar_Mishra_sr_frontend_developer.pdf"
         className="bg-green-300 rounded-md text-white p-1 m-1 hover:bg-green-400 duration-300"
       >
         Get Resume

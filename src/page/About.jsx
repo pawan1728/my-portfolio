@@ -42,30 +42,30 @@ const About = () => {
       <div className="w-2/3 text-justify rounded-md p-6 text-2xl ">
         <h2>
           Hi I am Pawan Kumar Mishra, a 30 year old Frontend developer, Web
-          developer, living in
+          developer, living in 
           <a
             className="border-b border-gray-300 ml-1 text-blue-400"
             href={CURRENT_COMPANY_WEBSITE_URL}
           >
             {" "}
-            {CURRENT_CITY_NAME}, India
+            {CURRENT_CITY_NAME}, India 
           </a>
           . I am a Computer Science Engineer, currently working with awesome
-          folks at
+          folks at 
           <a
             className="border-b border-gray-300 ml-1 text-blue-400"
             href={CURRENT_COMPANY_WEBSITE_URL}
             target="_blank"
           >
-            Novus Insights
+            {" "}Novus Insights 
           </a>
-          . Have a look at skills or just connect with me on
+          . Have a look at skills or just connect with me on 
           <a
             className="border-b border-gray-300 ml-1 text-blue-400"
             href={LINKEDIN_PROFILE_URL}
             target="_blank"
           >
-            LinkedIn
+            {" "}LinkedIn 
           </a>
           . I am always excited to do business with like minded people, lets
           discuss over coffee.

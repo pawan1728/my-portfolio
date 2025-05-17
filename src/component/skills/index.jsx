@@ -14,12 +14,12 @@ const Skill = () => {
   const skills = [
     {
       name: "React.js",
-      experience: "2 yrs",
+      experience: "4 yrs",
       iconLink: REACT_ICON,
     },
     {
       name: "JavaScript",
-      experience: "3 yrs",
+      experience: "4 yrs",
       iconLink: JS_ICON,
     },
     {
